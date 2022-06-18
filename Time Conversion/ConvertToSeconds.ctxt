@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ConvertToSeconds
+comment0.text=\r\n\ TODO\:\ \ This\ code\ will\ convert\ hours,\ minutes,\ and\ seconds\ into\ the\ time\ in\r\n\ in\ seconds.\r\n\ @author\ Colin\ Poly,\ Lindsey\ Kim,\ and\ Nicholas\ Richter\r\n\ @\ 9\ /\ 10\ /\ 2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
